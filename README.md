@@ -13,7 +13,6 @@ I'm student from Rajamangala University of Technology Lanna major of Computer En
 
 - [ Thailand ]: My main language
 - [ English ]: A little bit
--
 
 ## </ My github stats >
 
